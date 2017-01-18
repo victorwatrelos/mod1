@@ -1,0 +1,7 @@
+*.o
+mod1
+resources/*
+:w
+*.dSYM
+*.swp
+.DS_Store
